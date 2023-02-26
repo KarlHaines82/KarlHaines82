@@ -1,3 +1,9 @@
+# h1 Karl Haines
+email: karlhaines615@yahoo.com
+telegram: @linuxkarl
+IRC (oft.net): linuxkarl
+
+
 - 👋 Hi, I’m @KarlHaines82
 - 👀 I’m interested in ... Python, Linux, Android, Samsung, OnePlus, stuff, and things, and STUFF!
 <!---
